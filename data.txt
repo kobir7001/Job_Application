@@ -1,0 +1,4 @@
+cloud name =dvi6deeiv
+api key = 342883692429142
+api secret = aNJV4wsBauFnlv340EQ94G6gCX8
+jwt secret = abcdefghijklmnopqrstuvwxyz
